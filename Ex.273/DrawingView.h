@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DrawingView.h
 //  Ex.273
 //
 //  Created by SDT-1 on 2014. 1. 7..
@@ -8,12 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController:UIViewController
-
-
-
-
-
-
+@interface DrawingView : UIView
 
 @end
